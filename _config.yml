@@ -36,8 +36,9 @@ nav_exclude:
 
 ### Author Info ###
 author:
+  author:
   name: "Koyou Wu"
-  image: "/assets/images/profile.png"
+  image: "https://github.com/koyouwu2.png"
   github: "koyouwu2"
 
   # Add your contact information when ready:
